@@ -1,6 +1,6 @@
 name = "CURL_jll"
 uuid = "b21e61f3-bafc-59ac-ab14-4c5c62d6588d"
-version = "8.11.1+0"
+version = "8.13.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,9 +13,9 @@ Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.8"
-LibCURL_jll = "8.11.1"
-OpenSSL_jll = "3.0.15"
+LibCURL_jll = "8.13.0"
+OpenSSL_jll = "3.0.16"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
